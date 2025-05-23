@@ -1,5 +1,3 @@
-export const formElement = document.querySelector('.header-form');
-
-export const buttonEl = document.querySelector('.theme-toggle-button');
-
-export const taskList = document.querySelector('.tasks-list');
+export const formElement = document.querySelector('#task-form')
+export const buttonE1 = document.querySelector('.theme-toggle-button')
+export const taskList = document.querySelector('.tasks-list')
